@@ -76,6 +76,7 @@
 		60B1077D280457A9001663C9 /* Buy in Frameworks */ = {isa = PBXBuildFile; productRef = 60B1077C280457A9001663C9 /* Buy */; };
 		60B1077F280457A9001663C9 /* Pay in Frameworks */ = {isa = PBXBuildFile; productRef = 60B1077E280457A9001663C9 /* Pay */; };
 		60B1078228045832001663C9 /* Cartography in Frameworks */ = {isa = PBXBuildFile; productRef = 60B1078128045832001663C9 /* Cartography */; };
+		60B10784280458E5001663C9 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 60B10783280458E5001663C9 /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -144,6 +145,7 @@
 		60B1073E2804565F001663C9 /* StoreCheckoutAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoreCheckoutAPI.swift; sourceTree = "<group>"; };
 		60B1073F2804565F001663C9 /* StoreProductsAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoreProductsAPI.swift; sourceTree = "<group>"; };
 		60B107402804565F001663C9 /* StoreCollectionsAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoreCollectionsAPI.swift; sourceTree = "<group>"; };
+		60B10783280458E5001663C9 /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -185,6 +187,7 @@
 				60B106DE28045566001663C9 /* AppDelegate.swift */,
 				60B106E028045566001663C9 /* SceneDelegate.swift */,
 				60B107092804565E001663C9 /* Config.swift */,
+				60B10783280458E5001663C9 /* Localizable.strings */,
 				60B107382804565F001663C9 /* API */,
 				60B1072E2804565F001663C9 /* Extensions */,
 				60B106F92804565E001663C9 /* Helpers */,
@@ -434,6 +437,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				60B106EB2804556F001663C9 /* LaunchScreen.storyboard in Resources */,
+				60B10784280458E5001663C9 /* Localizable.strings in Resources */,
 				60B106E82804556F001663C9 /* Assets.xcassets in Resources */,
 				60B106E628045566001663C9 /* Main.storyboard in Resources */,
 			);

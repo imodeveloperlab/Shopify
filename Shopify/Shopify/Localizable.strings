@@ -1,0 +1,150 @@
+/* 
+ Localizable.strings
+ DSKit Explorer
+ 
+ Created by Borinschi Ivan on 21.05.2021.
+ Copyright © 2021 Borinschi Ivan. All rights reserved.
+ */
+
+// HomeViewController
+"HOME" = "Shop";
+"HOME_DISCOUNTS_HEADER" = "Discounts";
+"HOME_COLLECTIONS_HEADER" = "Collections";
+
+"SEARCH" = "Search";
+"CART" = "Cart";
+
+// CatalogViewController
+"CATALOG" = "Catalog";
+"CATALOG_FILTER_BY_TAG" = "Tag:";
+"CATALOG_FILTER_BY_SORT" = "Sort:";
+"CATALOG_FILTER_BY_TYPE" = "Type:";
+
+// InfoViewController
+"INFO" = "Info";
+"INFO_LEGALS" = "Legals";
+"INFO_SOCIAL_MEDIA" = "Social Media";
+"INFO_OTHER" = "Other";
+
+"INFO_PRIVACY_POLICY" = "Privacy Policy";
+"INFO_PRIVACY_POLICY_URL" = "https://dskit.app/privacy-policy.html";
+
+"INFO_TERMS_ASD_CONDITIONS" = "Terms & Conditions";
+"INFO_TERMS_ASD_CONDITIONS_URL" = "https://dskit.app/terms-and-conditions.html";
+
+"INFO_TWITTER" = "Twitter";
+"INFO_TWITTER_URL" = "https://twitter.com/dskit_app";
+
+"INFO_FACEBOOK" = "Facebook";
+"INFO_FACEBOOK_URL" = "https://www.facebook.com/dskit.framework";
+
+"INFO_INSTAGRAM" = "Instagram";
+"INFO_INSTAGRAM_URL" = "https://www.instagram.com/dskit.app/";
+
+"INFO_CHANGE_LOG" = "Change Log";
+"INFO_CHANGE_LOG_URL" = "https://dskit.app/changelog.html";
+
+"INFO_PRICING" = "Pricing";
+"INFO_PRICING_URL" = "https://dskit.app/pricing.html";
+
+"INFO_CONTACTS" = "Contacts";
+"INFO_CONTACTS_URL" = "https://dskit.app/contacts.html";
+
+"VIEW_ALL_CALL_TO_ACTION" = "View all";
+
+// FiltersViewController
+"FILTERS" = "Filters";
+"FILTERS_RESET" = "Reset";
+"FILTERS_CLOSE" = "Close";
+"FILTERS_SHOW_RESULTS" = "Show Results";
+"FILTERS_TYPES" = "Types";
+"FILTERS_SORT" = "Sort";
+"FILTERS_TAGS" = "Tags";
+
+// TagViewController
+"TAGS" = "Tags";
+"TAGS_REMOVE_TAGS" = "Tags";
+
+// SortViewController
+"SORT" = "Sort";
+"SORT_REMOVE_SORT" = "Remove Sort";
+
+// TypeViewController
+"TYPE" = "Type";
+"TYPE_REMOVE_TYPE" = "Remove Type";
+
+// CollectionViewController
+"COLLECTION" = "Collection";
+
+// SearchViewController
+"SEARCH" = "Search";
+"SEARCH_TYPES_HEADER" = "Search";
+"SEARCH_COLLECTIONS_HEADER" = "Collections";
+"SEARCH_TAGS_HEADER" = "Tags";
+
+// SearchResultsViewController
+"SEARCH_RESULT" = "Result";
+"SEARCH_RESULT_PLACEHOLDER" = "We did not found any product";
+
+// DiscountsViewController
+"DISCOUNTS" = "Discounts";
+
+// CheckoutViewController
+"CHECKOUT" = "Information";
+"CHECKOUT_CONTACT_INFORMATION" = "Contact information";
+"CHECKOUT_SHIPPING_ADDRESS" = "Shipping address";
+"CHECKOUT_CONTINUE_TO_SHIPPING" = "Continue to shipping";
+"CHECKOUT_NEXT_STEP_SHIPPING" = "Next Step: Shipping";
+"CHECKOUT_INVALID_FORM" = "Please enter valid contact information and shipping address";
+"CHECKOUT_EMAIL_ADDRESS" = "Email address";
+"CHECKOUT_UP_TO_DATE" = "Keep me up to date on news and exclusive offers";
+"CHECKOUT_FIRST_NAME" = "First name";
+"CHECKOUT_LAST_NAME" = "Last name";
+"CHECKOUT_ADDRESS" = "Address";
+"CHECKOUT_APARTMENT" = "Apartment, suite, etc. (optional)";
+"CHECKOUT_CITY" = "City";
+"CHECKOUT_COUNTRY" = "Country";
+"CHECKOUT_POSTAL_CODE" = "Postal code";
+"CHECKOUT_SAVE_CHECKOUT_INFORMATION" = "Save this information for next time";
+
+// ShippingViewController
+"SHIPPING" = "Shipping";
+"SHIPPING_CONTINUE_TO_PAYMENT" = "Continue to payment";
+"SHIPPING_NEXT_STEP_PAYMENT" = "Next Step: Payment";
+"SHIPPING_CONTACT_HEADER" = "Contact";
+"SHIPPING_CHANGE_BUTTON" = "Change";
+"SHIPPING_SHIP_TO_HEADER" = "Ship to";
+"SHIPPING_SELECT_SHIPPING_METHOD_HEADER" = "Select shipping method";
+"SHIPPING_FREE" = "Free";
+
+// SearchCountryViewController
+"SEARCH_COUNTRY" = "Search Country";
+"SEARCH_COUNTRY_SEARCH" = "Search";
+"SEARCH_COUNTRY_PLACEHOLDER" = "Ups, there is not result for your search";
+
+// CartViewController
+"CART" = "Cart";
+"CART_EMPTY" = "Your car is empty";
+"CART_TOTAL" = "Total";
+"CART_ITEM" = "Item";
+"CART_ITEMS" = "Items";
+"CART_FOR" = "for";
+"CART_CHECKOUT_BUTTON" = "Checkout";
+"CART_PRODUCT_VARIANT" = "Variant:";
+"CART_PRODUCT_QUANTITY" = "Quantity:";
+
+// ProductDetailsViewController
+"PRODUCT_DETAILS" = "Details";
+"PRODUCT_DETAILS_ADD_TO_CART_BUTTON" = "Add to cart";
+"PRODUCT_DETAILS_BUY_NOW" = "Buy Now";
+"PRODUCT_DETAILS_ADDED_TO_CART" = "Added to cart";
+"PRODUCT_DETAILS_UNAVAILABLE_BUTTON" = "UNAVAILABLE";
+"PRODUCT_DETAILS_UNAVAILABLE_MESSAGE" = "Sorry but selected variant is not available at the moment";
+"PRODUCT_DETAILS_TAX_INCLUDED" = "Tax included.";
+"PRODUCT_DETAILS_READ_MORE" = "read more";
+
+// AllCollectionsViewController
+"COLLECTIONS" = "Collections";
+
+// DescriptionDetailsViewController
+"DESCRIPTION_DETAILS" = "Details";
