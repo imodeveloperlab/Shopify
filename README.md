@@ -1,8 +1,9 @@
-# Shopify
 
 <p align="center">
-    <img src="https://d33wubrfki0l68.cloudfront.net/bda892015ae427fcde86e3f60db1d9f6237fecb7/a99b4/images/app/shopify-demo-app.png" width="80%" alt="DSKit"/>
+    <img src="https://d33wubrfki0l68.cloudfront.net/bda892015ae427fcde86e3f60db1d9f6237fecb7/a99b4/images/app/shopify-demo-app.png" width="90%" alt="DSKit"/>
 </p>
+
+# Shopify
 
 This project is powered by [DSKit](https://github.com/imodeveloperlab/dskit) a Design System Kit for iOS 13+, an iOS SDK written in Swift with a collection of reusable components, guided by clear standards, that can be assembled to build any number of applications.
 
