@@ -19,7 +19,7 @@ This project is powered by [DSKit](https://github.com/imodeveloperlab/dskit) a D
 </p>
 
 <p align="center">
-   <a href="https://www.youtube.com/watch?v=QP4jnrtmyTI"> <img src="https://dskit.app/images/envato/demo-video-shopify.jpg" max-width="100%" alt="DSKit"/></a>
+   <a href="https://www.youtube.com/watch?v=QP4jnrtmyTI"> <img src="https://dskit.app/images/envato/demo-video-shopify.jpg" width="95%" alt="DSKit"/></a>
 </p>
 
 
