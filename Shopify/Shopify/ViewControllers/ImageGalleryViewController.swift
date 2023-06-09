@@ -87,7 +87,7 @@ extension ImageGalleryViewController {
         let pictures = images.map { (url) -> DSViewModel in
             
             DSImageVM(imageUrl: url,
-                      height: .absolute(UIDevice.current.contentAreaHeigh - 100),
+                      height: .absolute(UIDevice.current.contentAreaHeight - 100),
                       displayStyle: .default,
                       contentMode: .scaleAspectFit)
         }

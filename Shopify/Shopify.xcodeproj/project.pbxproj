@@ -734,7 +734,7 @@
 			repositoryURL = "https://github.com/imodeveloperlab/dskit";
 			requirement = {
 				kind = exactVersion;
-				version = 1.0.1;
+				version = 1.0.3;
 			};
 		};
 		60B1077B280457A9001663C9 /* XCRemoteSwiftPackageReference "mobile-buy-sdk-ios" */ = {
