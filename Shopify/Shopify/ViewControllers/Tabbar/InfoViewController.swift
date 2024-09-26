@@ -92,7 +92,7 @@ final class InfoViewController: DSViewController {
         
         var themeVM = article(title: loc("INFO_CHANGE_LOG"), icon: "doc.text.magnifyingglass")
         themeVM.didTap { [unowned self] (model: DSActionVM) in
-            self.openWebPage(url: "https://dskit.app/changelog.html")
+            self.openWebPage(url: loc("INFO_CHANGE_LOG_URL"))
         }
         
         return themeVM
